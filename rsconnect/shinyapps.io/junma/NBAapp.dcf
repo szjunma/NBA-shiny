@@ -1,0 +1,8 @@
+name: NBAapp
+account: junma
+server: shinyapps.io
+bundleId: 335279
+url: https://junma.shinyapps.io/NBAapp
+when: 1450482641.07682
+asMultiple: FALSE
+asStatic: FALSE
