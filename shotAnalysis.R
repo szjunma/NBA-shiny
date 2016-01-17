@@ -1,5 +1,4 @@
 shotAnalysis <- function(shot.df = data.frame()){
-  
   longest.dist <- seq(5, 40, by = 5)
   close.dist <- seq(2,8, by = 2)
 
